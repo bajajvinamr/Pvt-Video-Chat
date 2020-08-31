@@ -1,4 +1,4 @@
-# Chat-Room
+# Pvt Video Chat
 - A Private Video Chatting application using Python3 sockets.
 
 - To Host:- 
